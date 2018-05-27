@@ -15,3 +15,5 @@ cd ..
 .\mvnw.cmd spring-boot:run (windows)
 ./mvnw spring-boot:run (linux)
 ```
+
+Open URL http://localhost:8080/index.html in browser
