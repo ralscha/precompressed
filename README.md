@@ -2,3 +2,14 @@
 Testing the new EncodedResourceResolver in Spring 5.1
 
 https://jira.spring.io/browse/SPR-16381
+
+
+```
+cd build
+npm install
+npm run dist
+
+cd ..
+.\mvnw.cmd spring-boot:run (windows)
+./mvnw spring-boot:run (linux)
+```
