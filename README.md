@@ -5,7 +5,9 @@ https://jira.spring.io/browse/SPR-16381
 
 
 ```
-cd build
+git clone https://github.com/ralscha/precompressed.git
+cd precompressed
+cd client
 npm install
 npm run dist
 
