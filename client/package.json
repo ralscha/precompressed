@@ -16,8 +16,8 @@
     "dist": "npm run build && npm run copy && npm run compress"
   },
   "devDependencies": {
-    "parcel-bundler": "1.9.3",
-    "shx": "0.3.1",
+    "parcel-bundler": "1.9.6",
+    "shx": "0.3.2",
     "bread-compressor-cli": "1.0.4"
   },
   "browserslist": [
